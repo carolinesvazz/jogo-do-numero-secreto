@@ -15,4 +15,4 @@
 [<img loading="lazy" 
 src="https://avatars.githubusercontent.com/u/194549310?v=4" width=115><br><sub>Caroline Vaz</sub>](https://github.com/carolinesvazz) 
 
-| :---: || :---: || :---: || :---: || :---: || :---: || :---: || :---: || :---: || :---: || :---: |
+| :---: || :---: || :---: || :---: || :---: || :---: || :---: ||
